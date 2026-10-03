@@ -45,7 +45,7 @@ We use these service providers to run the app:
 
 | Provider | Purpose |
 |---|---|
-| Supabase | Account sign-in, database and file storage for signed-in users |
+| Supabase | Account sign-in and database for signed-in users |
 | OpenAI | AI recipe generation and import |
 | RevenueCat | Subscription status and purchase management |
 | Apple | Sign in with Apple, App Store purchases, TestFlight |
